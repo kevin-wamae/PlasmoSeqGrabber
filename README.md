@@ -1,4 +1,4 @@
-# Download data files and annotations from [PlasmoDB](https://plasmodb.org)
+# Download datasets from [PlasmoDB](https://plasmodb.org)
 
 I put together this bash script to assist me to download data from PlasmoDB
 since I could not find a better way to do it.
