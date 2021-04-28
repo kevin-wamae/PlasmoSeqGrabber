@@ -28,7 +28,7 @@ targetGenomes=(
                PfalciparumSD01
                PfalciparumSN01
                PfalciparumTG01
-               PvivaxP01
+               # PvivaxP01
                )
 
 #********************************************************
