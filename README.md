@@ -1,6 +1,6 @@
 **Download datasets from [PlasmoDB](https://plasmodb.org), a *Plasmodium* informatics resourse**
 ---
-I put together this bash script to assist me to download data from PlasmoDB
+I put together this bash script to download data from PlasmoDB
 since I could not find a better way to do it.
 
 I use [wget](https://www.gnu.org/software/wget/) which can be installed using [brew](https://formulae.brew.sh/formula/wget)
